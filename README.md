@@ -53,9 +53,6 @@ Courses
 - [CS105 - Great Insights in Computer Science (Spring 2007) - Rutgers, The State University of New Jersey](https://itunes.apple.com/us/course/cs105-great-insights-in-computer/id698728833)
 - [CS110 - Introduction to Computing, Fall 2011 - Rutgers, The State University of New Jersey](https://itunes.apple.com/us/course/cs110-introduction-to-computing/id681331934)
 - [Computer Programming - Skills and Concepts 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/cp.htm)
-- [Introduction to Problem Solving and Programming - IIT Kanpur](http://nptel.ac.in/courses/106104074/)
-- [Introduction to programming in C - IIT Kanpur](http://nptel.ac.in/courses/106104128/)
-- [Programming in C++ - IIT Kharagpur](http://nptel.ac.in/courses/106105151/)
 - [CS 101 - Introduction to Computer Science - University of Virginia](http://www.cs.virginia.edu/~asb/teaching/cs101-spring07/lectures/lectures.html)
 - [Python Boot Camp Fall 2016 - Berkeley Institute for Data Science (BIDS)](https://www.youtube.com/playlist?list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9)
 
@@ -82,15 +79,6 @@ Courses
 - [CS 170 Algorithms - Spring 2015 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDbtIylJDpPPJfaFweeaR-3)
 - [ECS 122A - Algorithm Design and Analysis, UC Davis](http://web.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html)
 - [CSEP 521 - Applied Algorithms, Winter 2013 - University of Washington](http://courses.cs.washington.edu/courses/csep521/13wi/) ([Videos](http://courses.cs.washington.edu/courses/csep521/13wi/video/))
-- [Data Structures And Algorithms - IIT Delhi](http://nptel.ac.in/courses/106102064/)
-- [Design and Analysis of Algorithms - IIT Bombay](http://nptel.ac.in/courses/106101060/)
-- [Programming, Data Structures and Algorithms - IIT Madras](http://nptel.ac.in/courses/106106127/)
-- [Design and Analysis of Algorithms - IIT Madras](http://nptel.ac.in/courses/106106131/)
-- [Fundamental Algorithms:Design and Analysis - IIT Kharagpur](http://nptel.ac.in/courses/106105157/)
-- [Programming and Data Structure - IIT Kharagpur](http://nptel.ac.in/courses/106105085/)
-- [Programming, Data structures and Algorithms - IIT Madras](http://nptel.ac.in/courses/106106133/)
-- [Programming, Data Structures and Algorithms in Python - IIT Madras](http://nptel.ac.in/courses/106106145/)
-- [Programming and Data structures (PDS) - IIT Madras](http://nptel.ac.in/courses/106106130/)
 - [COP 5536 Advanced Data Structures, Prof Sahni - UFL](http://www.cise.ufl.edu/~sahni/cop5536/index.html) ([Videos](http://www.cise.ufl.edu/academics/courses/preview/cop5536sahni/))
 - [CS 261 - A Second Course in Algorithms, Stanford University](http://theory.stanford.edu/~tim/w16/w16.html) ([Youtube](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc))
 - [Informatics 2B - Algorithms, Data Structures and Learning- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2013/inf2b-adsl.htm)
@@ -108,9 +96,6 @@ Courses
 - [Theory I - SS 2010 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/2103/8701/)
 - [6.889 - Algorithms for Planar Graphs and Beyond (Fall 2011) MIT](http://courses.csail.mit.edu/6.889/fall11/lectures/)
 - [6.890 Algorithmic Lower Bounds: Fun with Hardness Proofs - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/)
-- [Computer Algorithms - 2 - IIT Kanpur](http://nptel.ac.in/courses/106104019/)
-- [Parallel Algorithm - IIT Kanpur](http://nptel.ac.in/courses/106104120/)
-- [Graph Theory - IISC Bangalore](http://nptel.ac.in/courses/106108054/)
 
 ---------------------------------
 
@@ -130,7 +115,6 @@ Courses
 	- [6.828 - Operating System Engineering [Fall 2014]](https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP)
 	- [CSE 30341 - Operating Systems, Spr 2008](https://www.youtube.com/view_play_list?p=AB7D5CA7E262B0E2)
 	- [CSEP 551 Operating Systems Autumn 2014 - University of Washington](http://courses.cs.washington.edu/courses/csep551/14au/video/)
-	- [Introduction to Operating Systems - IIT Madras](http://nptel.ac.in/courses/106106144/)
 	- [CS194 Advanced Operating Systems Structures and Implementation, Spring 2013, UC Berkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iB_5Q8G8kW5idSwNmXypmQE)
 	- [CSE 60641 - Graduate Operating Systems, Fall 08](https://www.youtube.com/view_play_list?p=22B10D854588E20C)
 - **Distributed Systems**
@@ -148,12 +132,9 @@ Courses
 	- [Information Retrieval and Web Search Engines - Technische Universität Braunschweig, Germany](http://www.ifis.cs.tu-bs.de/teaching/ws-1516/IRWS)
 - **Real-Time Systems**
 	- [CPCS 663 - Real-Time Systems: Video Material - TAMU](http://faculty.cs.tamu.edu/bettati/Courses/663/Video/presentation.html)
-	- [Real Time Systems - IIT Kharagpur](http://nptel.ac.in/courses/106105036/)
 	- [Real-Time Systems - SS 2013 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/5201/15648/)
 - [6.172 Performance Engineering of Software Systems - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/)
 - [System Infrastructure For Data Science - WS 2012 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/4808/14532/)
-- [Performance Evaluation of Computer Systems - IIT Madras](http://nptel.ac.in/courses/106106048/)
-- [Storage Systems - IISC Bangalore](http://nptel.ac.in/courses/106108058/)
 - [MAP6264 - Queueing Theory - FAU](https://vimeo.com/album/171324/)
 - [EE380-Colloquim on Computer Systems - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)
 
@@ -168,8 +149,6 @@ Courses
 - [CS 5530 - Database Systems, Spring 2016 - University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCrercQNP9tTsjjPdgRVYvC7)
 - [MOOC - Database Stanford Dbclass](https://www.youtube.com/playlist?list=PL6hGtHedy2Z4EkgY76QOcueU8lAC4o6c3)
 - [CSEP 544, Database Management Systems, Au 2015 - University of Washington](https://www.youtube.com/playlist?list=PLTPQEx-31JXjQYrUKvAjUTWgCYluHGs_L)
-- [Database Design - IIT Madras](http://nptel.ac.in/courses/106106093/)
-- [Fundamentals of Database Systems - IIT Kanpur](http://nptel.ac.in/courses/106104135/)
 - [Principles of Database Management, Bart Baesens](https://www.youtube.com/playlist?list=PLdQddgMBv5zEhlpqdiUcf9aTNEtmESgyl)
 - [FIT9003 Database Systems Design - Monash University](https://itunes.apple.com/us/podcast/fit9003-database-systems-design/id306569364)
 - [15-721 - Database Systems, CMU](http://15721.courses.cs.cmu.edu/spring2016/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbisIGOepfnlbfxeH7TW-8O))
@@ -193,7 +172,6 @@ Courses
 	- [Object Oriented Systems Analysis and Design (Systems Analysis and Design in a Changing World)](https://www.youtube.com/playlist?list=PL6XklZATqYx9dj72MKG6wLYjljeB2odra)
 	- [CS 251 - Intermediate Software Design (C++ version) - Vanderbilt University](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4ZsvD10uXmClGnukcu3Uff)
 	- [OOSE - Software Dev Using UML and Java](https://www.youtube.com/playlist?list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO)
-	- [Object-Oriented Analysis and Design - IIT Kharagpur](http://nptel.ac.in/courses/106105153/)
 	- [CS3 - Design in Computing - Richard Buckland UNSW](https://www.youtube.com/course?list=EC0C5D85DBA20E685C)
 	- [Informatics 1 - Object-Oriented Programming 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf1op.htm)
 	- [Software Engineering with Objects and Components 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/seoc.htm)
@@ -203,9 +181,7 @@ Courses
 	- [Introduction to Service Design and Engineering - University of Trento, Italy](https://www.youtube.com/playlist?list=PLBdajHWwi0JCn87QuFT3e58mekU0-6WUT)
 	- [CS 164 Software Engineering - Harvard](http://cs164.tv/2014/spring/)
 	- [System Analysis and Design - IISC Bangalore](http://nptel.ac.in/courses/106108102/)
-	- [Software Engineering - IIT Bombay](http://nptel.ac.in/courses/106101061/)
 	- [Dependable Systems (SS 2014)- HPI](https://itunes.apple.com/us/itunes-u/dependable-systems-ss-2014/id874200249)
-	- [Software Testing - IIT Kharagpur](http://nptel.ac.in/courses/106105150/)
 	- [Informatics 2C - Software Engineering 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf2SE.htm)
 - **Software Architecture**
 	- [CS 411 - Software Architecture Design - Bilkent University](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
@@ -229,10 +205,6 @@ Courses
 - [15-780 - Graduate Artificial Intelligence, Spring 14, CMU](http://www.cs.cmu.edu/~zkolter/course/15-780-s14/lectures.html)
 - [CSE 592 Applications of Artificial Intelligence, Winter 2003 - University of Washington](http://courses.cs.washington.edu/courses/csep573/03wi/lectures/index.htm)
 - [CS322 - Introduction to Artificial Intelligence, Winter 2012-13 - UBC](http://www.cs.ubc.ca/~mack/CS322/) ([YouTube](https://www.youtube.com/playlist?list=PLDPnGbm0sUmpzvcGvktbz446SLdFbfZVU))
-- [Artificial Intelligence - IIT Kharagpur](http://nptel.ac.in/courses/106105077/)
-- [Artificial Intelligence - IIT Madras](http://nptel.ac.in/courses/106106126/)
-- [Artificial Intelligence(Prof.P.Dasgupta) - IIT Kharagpur](http://nptel.ac.in/courses/106105079/)
-- [Artificial Intelligence: Knowledge Representation and Reasoning - IIT Madras](http://nptel.ac.in/courses/106106140/)
 - [MOOC - Intro to Artificial Intelligence - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlqMkzr4xyuD6cXTIgPuzgn)
 - [MOOC - Artificial Intelligence for Robotics - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkCSYXw6-a_aAoXVKLDwnHK)
 - [Graduate Course in Artificial Intelligence, Autumn 2012 - University of Washington](https://www.youtube.com/playlist?list=PLbQ3Aya0VERDoDdbMogU9EASJGWris9qG)
@@ -274,11 +246,6 @@ Courses
 	- [Machine Learning and Pattern Recognition 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/mlpr.htm)
 	- [Introductory Applied Machine Learning 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/iaml.htm)
 	- [Pattern Recognition Class (2012)- Universität Heidelberg](https://www.youtube.com/playlist?list=PLuRaSnb3n4kRDZVU6wxPzGdx1CN12fn0w)
-	- [Introduction to Machine Learning - IIT Kharagpur](http://nptel.ac.in/courses/106105152/)
-	- [Introduction to Machine Learning - IIT Madras](http://nptel.ac.in/courses/106106139/)
-	- [Pattern Recognition - IISC Bangalore](http://nptel.ac.in/courses/117108048/)
-	- [Pattern Recognition and Application - IIT Kharagpur](http://nptel.ac.in/courses/117105101/)
-	- [Pattern Recognition - IIT Madras](http://nptel.ac.in/courses/106106046/)
 	- [Machine Learning Summer School 2013 - Max Planck Institute for Intelligent Systems Tübingen](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E)
 	- [Machine Learning - Professor Kogan (Spring 2016) - Rutgers](https://www.youtube.com/playlist?list=PLauepKFT6DK_1_plY78bXMDj-bshv7UsQ)
 	- [CS273a: Introduction to Machine Learning](http://sli.ics.uci.edu/Classes/2015W-273a) ([YouTube](https://www.youtube.com/playlist?list=PLkWzaBlA7utJMRi89i9FAKMopL0h0LBMk))
@@ -303,7 +270,6 @@ Courses
 	- [Data Profiling and Data Cleansing (WS 2014/15) - HPI](https://itunes.apple.com/us/itunes-u/data-profiling-data-cleansing/id938216307)
 	- [AM 207 - Stochastic Methods for Data Analysis, Inference and Optimization, Harvard University](http://am207.github.io/2016/index.html)
 	- [CS 229r - Algorithms for Big Data, Harvard University](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf))
-	- [Algorithms for Big Data - IIT Madras](http://nptel.ac.in/courses/106106142/)
 - **Probabilistic Graphical Modeling**
 	- [MOOC - Probabilistic Graphical Models - Coursera](https://www.youtube.com/playlist?list=PLvfF4UFg6Ejj6SX-ffw-O4--SPbB9P7eP)
 	- [CS 6190 - Probabilistic Modeling, Spring 2016, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCpvxdF-Gy3gwaBObx7AnQut)
@@ -321,7 +287,6 @@ Courses
 	- [MOOC - Neural Networks for Machine Learning, Geoffrey Hinton 2016 - Coursera](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
 	- [Stat 946 Deep Learning - University of Waterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE)
 	- [Neural networks class - Université de Sherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html) ([YouTube](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH))
-	- [Neural Networks and Applications - IIT Kharagpur](http://nptel.ac.in/courses/117105084/)
 	- [Practical Deep Learning For Coders](http://course.fast.ai/lessons/lessons.html)
 	- [Nvidia Machine Learning Class](https://www.youtube.com/playlist?list=PLTIkHmXc-7an8xbwhAJX-LQ4D4Uf-ar5I)
 - **Advanced Machine Learning**
@@ -343,7 +308,6 @@ Courses
 	- [Informatics 2A - Processing Formal and Natural Languages 2016-17 - University of Edinburgh](http://www.inf.ed.ac.uk/teaching/courses/inf2a/schedule.html)
 	- [Computational Cognitive Science 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/ccs.htm)
 	- [Accelerated Natural Language Processing 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/anlp.htm)
-	- [Natural Language Processing - IIT Bombay](http://nptel.ac.in/courses/106101007/)
 - **Misc Machine Learning Topics**
 	- [CS 6955 - Clustering, Spring 2015, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCpRvi-qSMCdOwyn4UYoPxTI)
 	- [Info 290 - Analyzing Big Data with Twitter, UC Berkeley school of information](http://blogs.ischool.berkeley.edu/i290-abdt-s12/) ([YouTube](https://www.youtube.com/playlist?list=PLE8C1256A28C1487F))
@@ -356,7 +320,6 @@ Courses
 	- [10-725 Optimization Fall 2012 - CMU](http://www.cs.cmu.edu/~ggordon/10725-F12/schedule.html)
 	- [10-801 Advanced Optimization and Randomized Methods - CMU](http://www.cs.cmu.edu/~suvrit/teach/aopt.html) ([YouTube](https://www.youtube.com/playlist?list=PLjTcdlvIS6cjdA8WVXNIk56X_SjICxt0d))
 	- [Reinforcement Learning 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/rl.htm)
-	- [Reinforcement Learning - IIT Madras](http://nptel.ac.in/courses/106106143/)
 	- [Statistical Rethinking Winter 2015 - Richard McElreath](https://www.youtube.com/playlist?list=PLDcUM9US4XdMdZOhJWJJD4mDBMnbTWw_z)
 	- [Music Information Retrieval - University of Victoria, 2014](http://marsyas.cs.uvic.ca/mirBook/course/)
 	- [PURDUE Machine Learning Summer School 2011](https://www.youtube.com/playlist?list=PL2A65507F7D725EFB)
@@ -373,7 +336,6 @@ Courses
 - [Computer Networks, Tanenbaum, Wetherall Computer Networks 5e - Video Lectures](http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html)
 - [CSEP 561 - PMP Network Systems, Fall 2013 - University of Washington](http://courses.cs.washington.edu/courses/csep561/13au/) ([Videos](http://courses.cs.washington.edu/courses/csep561/13au/video/))
 - [CSEP 561 – Network Systems, Autumn 2008 - University of Washington](http://courses.cs.washington.edu/courses/csep561/08au/) ([Videos](http://courses.cs.washington.edu/courses/csep561/08au/lectures/))
-- [Computer Networks - IIT Kharagpur](http://nptel.ac.in/courses/106105081/)
 - [Introduction to Data Communications 2013, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF8u4iC7hFTMVC_WD6SEpnkx)
 - [Communication Systems - SS 2008 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/16/2825/)
 - [Communication Systems (Telecommunication from ISDN/GSM to VoIP) - WS 2010 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/3003/10016/)
@@ -384,17 +346,6 @@ Courses
 - [Wireless Sensor Networks - WS 2006 (English) - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/112/4172/)
 - [Introduction to Complex Networks - RIT](https://www.youtube.com/playlist?list=PLE9AAD550EA21F3DC)
 - [Structural Analysis and Visualization of Networks](http://www.leonidzhukov.net/hse/2015/networks/)
-- [Data Communication - IIT Kharagpur](http://nptel.ac.in/courses/106105082/)
-- [Error Correcting Codes - IISC Bangalore](http://nptel.ac.in/courses/117108044/)
-- [Information Theory and Coding - IIT Bombay](http://nptel.ac.in/courses/117101053/)
-- [Complex Network : Theory and Application - IIT Kharagpur](http://nptel.ac.in/courses/106105154/)
-- [Advanced 3G and 4G Wireless Mobile Communications - IIT Kanpur](http://nptel.ac.in/courses/117104099/)
-- [Broadband Networks: Concepts and Technology - IIT Bombay](http://nptel.ac.in/courses/117101050/)
-- [Coding Theory - IIT Madras](http://nptel.ac.in/courses/117106031/)
-- [Digital Communication - IIT Bombay](http://nptel.ac.in/courses/117101051/)
-- [Digital Voice & Picture Communication - IIT Kharagpur](http://nptel.ac.in/courses/117105081/)
-
-
 
 -------------------------
 
@@ -411,7 +362,6 @@ Courses
 	- [CSE 547 Discrete Mathematics, Prof Skiena, University of Stony Brook](http://www3.cs.stonybrook.edu/~algorith/math-video/)
 	- [Discrete Structures (Summer 2011) - Rutgers, The State University of New Jersey](https://itunes.apple.com/us/course/discrete-structures-summer/id698728837)
 	- [Discrete Mathematics and Mathematical Reasoning 2015/16 - University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/dmmr.htm)
-	- [Discrete Mathematical Structures - IIT Madras](http://nptel.ac.in/courses/106106094/)
 	- [Discrete Structures - Pepperdine University](https://itunes.apple.com/us/course/discrete-structures/id546468789)
 - **Probability & Statistics**
 	- [6.041 Probabilistic Systems Analysis and Applied Probability - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
@@ -419,7 +369,6 @@ Courses
 	- [Statistics 20, Fall 2010 - UC Berkeley](https://www.youtube.com/playlist?list=PLnzPXnz47JdHX8mjs2inYX8Ijrde6mUUS)
 	- [MOOC - Statistics: Making Sense of Data, Coursera](http://academictorrents.com/details/a0cbaf3e03e0893085b6fbdc97cb6220896dddf2)
 	- [MOOC - Statistics One - Coursera](https://www.youtube.com/playlist?list=PLycnP7USbo1V3jlyjAzWUB201cLxPq4NP)
-	- [Probability and Random Processes - IIT Kharagpur](http://nptel.ac.in/courses/117105085/)
 	- [MOOC - Statistical Inference - Coursera](https://www.youtube.com/playlist?list=PLgIPpm6tJZoSvrYM54BUqJJ4CWrYeGO40)
 	- [131B - Introduction to Probability and Statistics, UCI](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7k-j-86QUC2_0nEu0QOP-Wy)
 	- [The Probability and Statistics Full Course - YouTube](https://www.youtube.com/playlist?list=PLLssT5z_DsK_WYzNXVjT695FdxRxvlSF8)
@@ -485,15 +434,6 @@ Courses
 	- [2016 Lectures](https://www.cs.uoregon.edu/research/summerschool/summer16/curriculum.php)
 - [Inf1 - Computation and Logic 2015 - University of Edinburgh](http://www.inf.ed.ac.uk/teaching/courses/inf1/cl/)
 - [INFORMATICS 1 - FUNCTIONAL PROGRAMMING - University of Edinburgh](http://www.inf.ed.ac.uk/teaching/courses/inf1/fp/) ([Videos](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/inf1fp.htm))
-- [Compiler Design - IISC Bangalore](http://nptel.ac.in/courses/106108052/)
-- [Compiler Design - IIT Kanpur](http://nptel.ac.in/courses/106104123/)
-- [Principles of Programming Languages - IIT Delhi](http://nptel.ac.in/courses/106102067/)
-- [Principles of Compiler Design - IISC Bangalore](http://nptel.ac.in/courses/106108113/)
-- [Functional Programming in Haskell - IIT Madras](http://nptel.ac.in/courses/106106137/)
-- [Theory of Computation - IIT Kanpur](http://nptel.ac.in/courses/106104148/)
-- [Theory of Automata, Formal Languages and Computation - IIT Madras](http://nptel.ac.in/courses/106106049/)
-- [Theory of Computation - IIT Kanpur](http://nptel.ac.in/courses/106104028/)
-- [Logic for CS - IIT Delhi](http://nptel.ac.in/courses/106102013/)
 - [Principles of Compiler Design - Swarthmore College](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html)
 
 -------------------------------
@@ -504,8 +444,6 @@ Courses
 	- [CS 61C - Machine Structures, UC Berkeley](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_))
 	- [6.004 - Computation Structures Spring 2013, MIT](https://www.youtube.com/playlist?list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
 	- [CS/ECE 3810 Computer Organization, Fall 2015, , University of Utah](http://www.cs.utah.edu/~rajeev/cs3810/) ([YouTube](https://www.youtube.com/playlist?list=PLm7BxCUdWqZzjZ-jRe73KUfj2GsSS2FPy))
-	- [Digital Computer Organization - IIT Kharagpur](http://nptel.ac.in/courses/117105078/)
-	- [Computer Organization - IIT Madras](http://nptel.ac.in/courses/106106092/)
 	- [CS-224 - Computer Organization, 2009-2010 Spring, Bilkent University](http://video.bilkent.edu.tr/course_videos.php?courseid=16) ([YouTube playlist](https://www.youtube.com/playlist?list=PLhwVAYxlh5dvB1MkZrcRZy6x_a2yORNAu))
 	- [INFORMATICS 2C - INTRODUCTION TO COMPUTER SYSTEMS (AUTUMN 2016) - University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf2c-cs.htm)
 - **Computer Architecture**
@@ -514,10 +452,6 @@ Courses
 	- [CSEP 548 - Computer Architecture Autumn 2012 - University of Washington](http://courses.cs.washington.edu/courses/csep548/12au/video/index.html)
 	- [CS/ECE 6810 Computer Architecture, Spring 2016, University of Utah](http://www.cs.utah.edu/~rajeev/cs6810/) ([YouTube](https://www.youtube.com/playlist?list=PL8EC1756A7B1764F6))
 	- [MOOC - Computer Architecture, David Wentzlaff - Princeton University/Coursera](http://academictorrents.com/details/53bae6d22f3b6e692673f9335e0a0198c1618426)
-	- [Computer Architecture - IIT Delhi](http://nptel.ac.in/courses/106102062/)
-	- [Computer Architecture - IIT Kanpur](http://nptel.ac.in/courses/106104122/)
-	- [Computer Architecture - IIT Madras](http://nptel.ac.in/courses/106106134/)
-	- [High Performance Computer Architecture - IIT Kharagpur](http://nptel.ac.in/courses/106105033/)
 - **Embedded Systems**
 	- [EE445L Embedded Systems Design Lab, Fall 2015, UTexas](https://www.youtube.com/playlist?list=PLyg2vmIzGxXGBxFu8nvX3KBadSdsNAvbA)
 	- [CS149 Embedded Systems - Fall 2014 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDq3FCoYLeUL-X-NUlT405n)
@@ -529,9 +463,6 @@ Courses
 	- [Embedded Systems using the Renesas RX63N Processor - Version 3 - UNCC](https://www.youtube.com/playlist?list=PLPIqCiMhcdO5gxLJWt_hY5CPMzqg75IU5)
 	- [ELEC2142 - Embedded Systems Design - UNSW](http://eemedia.ee.unsw.edu.au/ELEC2142/index.htm)
 	- [Software Engineering for Embedded Systems - WS 2011/12 - iTunes - HPI](https://itunes.apple.com/us/itunes-u/software-engineering-for-embedded/id483124850)
-	- [Embedded Software Testing - IIT Madras](http://nptel.ac.in/courses/117106112/)
-	- [Embedded Systems - IIT Delhi](http://nptel.ac.in/courses/108102045/)
-	- [ARM Based Development - IIT Madras](http://nptel.ac.in/courses/117106111/)
 	- [Software Engineering for Self Adaptive Systems - iTunes - HPI](https://itunes.apple.com/us/itunes-u/software-engineering-for-self/id993578475)
 	- [EE260 Embedded Systems by Robert Paz](https://www.youtube.com/playlist?list=PLnvE9iJk1wvib_pdUPdQGYZrkrmg9mf__)
 - **Parallel Computer Architecture**
@@ -539,11 +470,9 @@ Courses
 	- [CS 267 Applications of Parallel Computers, Spring 16 - UC Berkeley](https://people.eecs.berkeley.edu/~demmel/cs267_Spr16/) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIzSfxr35ZT59-LZcibZmfp2))
 	- [MOOC - Heterogeneous Parallel Programming	- Coursera](http://academictorrents.com/details/8903d0871c652b96c7b29db738cea76902d65888)
 	- [ECE 498AL - Programming Massively Parallel Processors](https://nanohub.org/resources/7225)
-	- [Parallel Computing - IIT Delhi](http://nptel.ac.in/courses/106102114/)
 	- [Parallel Architectures 2012/13- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2012/pa.htm)
 - **Digital Systems Design**
 	- [ELEC2141 Digital Circuit Design, UNSW](https://www.youtube.com/playlist?list=PLB52B8F4E464CEEF7)
-	- [Digital Systems Design - IIT Kharagpur](http://nptel.ac.in/courses/117105080/)
 	- [Digital Design Course - 2015 - UNCC](https://www.youtube.com/playlist?list=PLPIqCiMhcdO7bBmieyG5u41x2Ogcn67Bs)	
 - [CS1 - Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F)
 - [MOOC - From NAND to TetrisBuilding a Modern Computer From First Principles](http://www.nand2tetris.org/course.php) ([YouTube](https://www.youtube.com/playlist?list=PLNMIACtpT9BfztU0P92qlw8Gd4vxvvfT1))
@@ -563,10 +492,6 @@ Courses
 - [Introduction to Cryptography, Christof Paar - Ruhr University Bochum, Germany](https://www.youtube.com/playlist?list=PLwJWuZfL_Ga2KJrTf9hOIgAQWkSpn9RNm)
 - [ECS235B Foundations of Computer and Information Security - UC Davis](https://itunes.apple.com/us/itunes-u/computer-science-foundations/id389259109)
 - [CIS 4930/ CIS 5930 - Offensive Computer Security, Florida State University](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
-- [Introduction to Information Security I - IIT Madras](http://nptel.ac.in/courses/106106129/)
-- [Information Security - II - IIT Madras](http://nptel.ac.in/courses/106106141/)
-- [Introduction to Cryptology - IIT Roorkee](http://nptel.ac.in/courses/106107155/)
-- [Cryptography and Network Security - IIT Kharagpur](http://nptel.ac.in/courses/106105031/)
 - [18-636 Browser Security, Stanford](https://courseware.stanford.edu/pg/courses/334553/18636-spring-2013)
 - [Internet Security - Weaknesses and Targets (WT 2015/16)](https://www.tele-task.de/archive/series/overview/1084/) ([WT 2012/13](https://www.tele-task.de/archive/series/overview/921/) ([YouTube](https://www.youtube.com/playlist?list=PLVWVhkyKd-7taP50fB9PeZ2W_EPTOLD8o)))
 - [IT Security, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF9-XSGfm-3uA9DfF7plasCF)
@@ -575,7 +500,6 @@ Courses
 - [MOOC - Cryptography - Coursera](https://www.youtube.com/playlist?list=PL3F2F89F4CD1E1DF4)
 - [MOOC - Intro to Information Security - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkG-z00NybuIyDqT4sRh3ak)
 - [ICS 444 - Computer & Network Security](https://www.youtube.com/playlist?list=PLciCszvvRCTV09wIXJwiPmYF7thHiq4En)
-- [Privacy and Security in Online Social Networks - IIT Madras](http://nptel.ac.in/courses/106106146/)
 - [Malware Dynamic Analysis - Open SecurityTraining](http://opensecuritytraining.info/MalwareDynamicAnalysis.html) ([YouTube](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kqYbGpY4Gt_VATd4ytQg-Z))
 
 -------
@@ -584,8 +508,6 @@ Courses
 
 - [CS184 - Computer Graphics, Fall 2012 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html)
 - [ECS 175 - Computer Graphics, Fall 2009 - UC Davis](https://itunes.apple.com/us/itunes-u/computer-graphics-fall-2009/id457893733?mt=10)
-- [Introduction to Computer Graphics - IIT Delhi](http://nptel.ac.in/courses/106102065/)
-- [Computer Graphics - IIT Madras](http://nptel.ac.in/courses/106106090/)
 - [Computer Graphics 2012, Wolfgang Huerst, Utrecht University](https://www.youtube.com/playlist?list=PLDFA8FCF0017504DE)
 - [CS 5630/6630 - Visualization, Fall 2016, University of Utah](http://dataviscourse.net/2016/index.html) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCpQY3miQpTJtnHgCLze2lr0))
 - [Advanced Visualization UC Davis](https://www.youtube.com/playlist?list=PLslgisHe5tBNnySlj9TlL-n-4jNEK-xgi)
@@ -595,7 +517,6 @@ Courses
 - [Ray Tracing for Global Illumination, UCDavis](https://www.youtube.com/playlist?list=PLslgisHe5tBPckSYyKoU3jEA4bqiFmNBJ)
 - [Rendering / Ray Tracing Course, SS 2015 - TU Wien](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
 - [ECS 178 Introduction to Geometric Modeling, Fall 2012, UC Davis](http://graphics.cs.ucdavis.edu/~joy/ecs178/Units.html) ([iTunes](https://itunes.apple.com/us/itunes-u/computer-science-introduction/id389259246))
-- [Computational Geometry - IIT Delhi](http://nptel.ac.in/courses/106102011/)
 - [CS 468 - Differential Geometry for Computer Science - Stanford University](http://graphics.stanford.edu/courses/cs468-13-spring/schedule.html)
 
 -------
@@ -604,7 +525,6 @@ Courses
 
 - [MOOC - Digital Image procesing - Duke/Coursera](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs)
 - [Computer Vision 2011 - EPFL, Switzerland](http://www.klewel.com/conferences/epfl-computer-vision/)
-- [Digital Image Processing - IIT Kharagpur](http://nptel.ac.in/courses/117105079/)
 - [Image Processing and Analysis - UC Davis](https://www.youtube.com/playlist?list=PLA64AFAE28B8DD0FD)
 - [CAP 5415 - Computer Vision - University of Central Florida](http://crcv.ucf.edu/courses/CAP5415/Fall2014/index.php)
 - [EE225B - Digital Image Processing, Spring 2014 - UC Berkeley](https://inst.eecs.berkeley.edu/~ee225b/sp14/) ([Videos - Spring 2006](http://www-video.eecs.berkeley.edu/~avz/video_225b.html))
@@ -619,7 +539,6 @@ Courses
 - [Advanced Vision 2014 - University of Edinburgh](http://homepages.inf.ed.ac.uk/rbf/AVINVERTED/main_av.htm)
 - [Photogrammetry Course - 2015/16 - University of Bonn, Germany](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1)
 - [MOOC - Introduction to Computer Vision - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm)
-- [Biometrics - IIT Kanpur](http://nptel.ac.in/courses/106104119/)
 
 
 --------------------------------
@@ -673,7 +592,6 @@ Courses
 	- [MIT CMS.611J Creating Video Games, Fall 2014](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014/lecture-videos/)
 	- [Unity3D Tutorials](https://www.youtube.com/playlist?list=PL5FMIyKmleRwYdMIuejPS5csShp237A3X)
 	- [MOOC - Beginning Game Programming with C# - Coursera](http://academictorrents.com/details/0a7ba7e62821e488a0061751fdb81f4298733bea)
-- [Introduction to Geographic Information Systems - IIT Roorkee](http://nptel.ac.in/courses/105107155/)
 - [SCICOMP - An Introduction to Efficient Scientific Computation, Universität Bremen](http://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=233) ([Lectures - Youtube](https://www.youtube.com/user/fillwithlight/videos))
 - [CS E-259 XML with Java, Java Servlet, and JSP - Harvard](http://cs259.tv/2007/fall/)
 - [CSE 40373 - Spr 2009: Multimedia Systems](https://www.youtube.com/view_play_list?p=0105F1427EFAEE0A)
@@ -684,9 +602,6 @@ Courses
 - [Linux Implementation/Administration Practicum - Redhat by Tulio Llosa](https://itunes.apple.com/us/itunes-u/linux-implementation-administration/id430673915)
 - [SIMS 141 - Search Engines - Fall 2005 UCBerkeley](https://www.youtube.com/view_play_list?p=1777A89066B1D71D)
 - [Innovative Computing - Harvard University](https://www.youtube.com/course?list=ECE3E96113F544495A)
-- [Linux Programming & Scripting - IIT Madras](http://nptel.ac.in/courses/117106113/)
-- [Model Checking - IIT Madras](http://nptel.ac.in/courses/106106136/)
-- [Virtual Reality - IIT Madras](http://nptel.ac.in/courses/106106138/)
 - [CS 195 - Social Implications of Computing, Spring 2015 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs195/sp15/) ([YouTube](https://www.youtube.com/playlist?list=PL-XXv-cvA_iAmCxqGV1Px2pKchYfozH-e))
 - [Spatial Databases and Geographic Information Systems - Technische Universität Braunschweig, Germany (in German)](http://www.ifis.cs.tu-bs.de/teaching/ws-1617/gis)
 
