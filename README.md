@@ -1,12 +1,4 @@
 ## Computer Science courses with video lectures
-
-### Please Note: UC Berkeley course videos to be taken offline on 15th March 2017. As per website, Beginning March 15, 2017, iTunesU Course Capture content will be removed. You may continue to use/download course capture content until that date. [issue#47](https://github.com/Developer-Y/cs-video-courses/issues/47)
-
-**Introduction**
-
-- Please check [NOTES](https://github.com/Developer-Y/cs-video-courses/blob/master/NOTES.md) for general information about this list.
-- Please refer [CONTRIBUTING.md](https://github.com/Developer-Y/cs-video-courses/blob/master/CONTRIBUTING.md) for contribution guidelines.
-
 ------------------------------
 
 Table of Contents
@@ -228,19 +220,6 @@ Courses
 	- [Parallel Programming Concepts (WT 2013/14) - HPI](https://itunes.apple.com/us/itunes-u/parallel-programming-concepts/id728270905)
 	- [Parallel Programming Concepts (WT 2012/13) - HPI](https://itunes.apple.com/us/itunes-u/parallel-programming-concepts/id597821383)
 	- [Concurrency Theory and Practice - WS 2010 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/3303/12101/)
-- **Mobile Application Development**
-	- [MOOC Programming Mobile Applications for Android Handheld Systems - University of Maryland](https://www.youtube.com/playlist?list=PLkHsKoi6eZnwilGXUc95CqS7Vw4uLLDLG)
-	- [CS 193p - Developing Applications for iOS, Stanford University](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961)
-	- [CS S-76 Building Mobile Applications - Harvard](http://cs76.tv/2013/summer/)
-	- [CS 251 (2015): Intermediate Software Design](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp7lylj-XC8h1kjatOjbh9ne)
-	- [Android App Development for Beginners Playlist - thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl)
-	- [Android Application Development Tutorials - thenewboston](https://www.youtube.com/playlist?list=PL2F07DBCDCC01493A)
-	- [MOOC - Developing Android Apps - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnMwH5-FNkErnnq_aSy706S)
-	- [MOOC - Advanced Android App Development - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmETCT07vnDSiIaUBuyut0X)
-	- [CSSE490 Android Development Rose-Hulman Winter 2010-2011, Dave Fisher](https://www.youtube.com/playlist?list=PLF3EEB647F6B52F03)
-	- [iOS Course, Dave Fisher](https://www.youtube.com/playlist?list=PL96C635E4DCD393A8)
-	- [Developing iPad Applications for Visualization and Insight - Carnegie Mellon University](https://itunes.apple.com/us/course/developing-ipad-applications/id499050344)
-	- [Mobile Computing - IIT Madras](http://nptel.ac.in/courses/106106147/)
 
 ------------------------------
 
@@ -461,11 +440,6 @@ Courses
 -------------------------
 
 ### Web Programming and Internet Technologies
-- [Web Design Decal - HTML/CSS/JavaScript Course, University of California, Berkeley](http://live.wdd.io/)
-- [CS 75 Building Dynamic Websites - Harvard University](http://cs75.tv/2012/summer/)
-- [Internet Technology - IIT Kharagpur](http://nptel.ac.in/courses/106105084/)
-- [Introduction to Modern Application Development - IIT Madras](http://nptel.ac.in/courses/106106156/)
-- [CSE 199 - How the Internet Works, Fall 2016 - University of Buffalo](https://www.youtube.com/playlist?list=PLk97mPCd8nvbxGGfkYkBXrSEvpTc1xTF8)
 - [Web Search - SS 2006 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/110/423/)
 - [Open Sourced Elective: Database and Rails - Intro to Ruby on Rails, University of Texas](http://www.schneems.com/ut-rails/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F))
 - [CSEP545 - Transaction Processing for E-Commerce, Winter 2012 - University of Washington](http://courses.cs.washington.edu/courses/csep545/12wi/) ([Videos](http://courses.cs.washington.edu/courses/csep545/12wi/video/))
