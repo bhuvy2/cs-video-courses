@@ -62,14 +62,11 @@ Courses
 
 - [CS 61B - Data Structures, Jonathan Shewchuk - UC Berkeley](https://people.eecs.berkeley.edu/~jrs/61b/) ([Videos](https://www.youtube.com/playlist?list=PL4BBB74C7D2A1049C))
 - [CS 61B - Data Structures, Josh Hug, Spring 2016 - UC Berkeley](http://datastructur.es/sp16/)
-- [MOOC - Design and Analysis of Algorithms Part 1 - Prof Roughgarden - Coursera](https://www.youtube.com/playlist?list=PLLH73N9cB21W1TZ6zz1dLkyIm50HylGyg) ([Part 2](https://www.youtube.com/playlist?list=PLLH73N9cB21VPj3H2xwTTye5TC8-UniA2))
-- [MOOC - Algorithms Part 1 - Prof Sedgewick](https://www.youtube.com/playlist?list=PLUX6FBiUa2g4YWs6HkkCpXL6ru02i7y3Q) ([Part 2](https://www.youtube.com/playlist?list=PLqD_OdMOd_6YixsHkd9f4sNdof4IhIima))
 - [6.006 - Introduction to Algorithms, MIT OCW](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 - [CSE 373 - Analysis of Algorithms, Stony Brook - Prof Skiena](http://www.cs.sunysb.edu/~algorith/video-lectures/)
 - [COP 3530 Data Structures and Algorithms, Prof Sahni, UFL](http://www.cise.ufl.edu/~sahni/cop3530/) ([Videos](http://www.cise.ufl.edu/academics/courses/preview/cop3530sahni/))
 - [CS225 - Data Structures - University of Illinois at Urbana-Champaign](https://chara.cs.illinois.edu/cs225/lectures/)
 - [CS2 - Data Structures and Algorithms - Richard Buckland - UNSW](https://www.youtube.com/playlist?list=PLE621E25B3BF8B9D1)
-- [Data Structures - Pepperdine University](https://itunes.apple.com/us/course/data-structures/id546468797)
 - [CS 161 - Design and Analysis of Algorithms, Prof. Tim Roughgarden, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
 - [6.046J - Introduction to Algorithms - Fall 2005, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/)
 - [6.046 - Design and Analysis of Algorithms, Spring 2015 - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/)
@@ -150,7 +147,6 @@ Courses
 - [MOOC - Database Stanford Dbclass](https://www.youtube.com/playlist?list=PL6hGtHedy2Z4EkgY76QOcueU8lAC4o6c3)
 - [CSEP 544, Database Management Systems, Au 2015 - University of Washington](https://www.youtube.com/playlist?list=PLTPQEx-31JXjQYrUKvAjUTWgCYluHGs_L)
 - [Principles of Database Management, Bart Baesens](https://www.youtube.com/playlist?list=PLdQddgMBv5zEhlpqdiUcf9aTNEtmESgyl)
-- [FIT9003 Database Systems Design - Monash University](https://itunes.apple.com/us/podcast/fit9003-database-systems-design/id306569364)
 - [15-721 - Database Systems, CMU](http://15721.courses.cs.cmu.edu/spring2016/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbisIGOepfnlbfxeH7TW-8O))
 - [CS122 - Relational Database System Implementation, Winter 2014-2015 - Caltech](http://users.cms.caltech.edu/~donnie/cs122/)
 - [CS 186 - Database Systems, UC Berkeley, Spring 2015](https://sites.google.com/site/cs186spring2015/home/schedule-and-notes) ([Lectures- YouTube](https://www.youtube.com/playlist?list=PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y))
@@ -181,7 +177,6 @@ Courses
 	- [Introduction to Service Design and Engineering - University of Trento, Italy](https://www.youtube.com/playlist?list=PLBdajHWwi0JCn87QuFT3e58mekU0-6WUT)
 	- [CS 164 Software Engineering - Harvard](http://cs164.tv/2014/spring/)
 	- [System Analysis and Design - IISC Bangalore](http://nptel.ac.in/courses/106108102/)
-	- [Dependable Systems (SS 2014)- HPI](https://itunes.apple.com/us/itunes-u/dependable-systems-ss-2014/id874200249)
 	- [Informatics 2C - Software Engineering 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf2SE.htm)
 - **Software Architecture**
 	- [CS 411 - Software Architecture Design - Bilkent University](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
@@ -193,8 +188,6 @@ Courses
 	- [CS 282 (2014): Concurrent Java Network Programming in Android](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4KSJPUyaQCj7x--NQ6kvcX)
 	- [CSE P 506 – Concurrency, Spring 2011 - University of Washington](http://courses.cs.washington.edu/courses/csep506/11sp/Home.html) ([Videos](http://courses.cs.washington.edu/courses/csep506/11sp/Videos.html))
 	- [CSEP 524 - Parallel Computation - University of Washington](http://courses.cs.washington.edu/courses/csep524/10sp/) ([Videos](http://courses.cs.washington.edu/courses/csep524/10sp/lectures/video.html))
-	- [Parallel Programming Concepts (WT 2013/14) - HPI](https://itunes.apple.com/us/itunes-u/parallel-programming-concepts/id728270905)
-	- [Parallel Programming Concepts (WT 2012/13) - HPI](https://itunes.apple.com/us/itunes-u/parallel-programming-concepts/id597821383)
 	- [Concurrency Theory and Practice - WS 2010 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/3303/12101/)
 
 ------------------------------
@@ -257,7 +250,6 @@ Courses
 	- [CS 5955/6955 - Data Mining, University of Utah](http://www.cs.utah.edu/~jeffp/teaching/cs5955.html) ([YouTube](https://www.youtube.com/channel/UCcrlwW88yMcXujhGjSP2WBg/videos))
 	- [Statistics 202 - Statistical Aspects of Data Mining, Summer 2007 - Google](http://www.stats202.com/original_index.html) ([YouTube](https://www.youtube.com/playlist?list=PLFE776F2C513A744E))
 	- [MOOC - Text Mining and Analytics by ChengXiang Zhai](https://www.youtube.com/playlist?list=PLLssT5z_DsK8Xwnh_0bjN4KNT81bekvtt)
-	- [Information Retrieval SS 2014, iTunes - HPI](https://itunes.apple.com/us/itunes-u/information-retrieval-ss-2014/id874200291)
 	- [MOOC - Data Mining with Weka](https://www.youtube.com/playlist?list=PLm4W7_iX_v4NqPUjceOGd-OKNVO4c_cPD)
 	- [CS 290 DataMining Lectures](https://www.youtube.com/playlist?list=PLB4CCA346A5741C4C)
 	- [CS246 - Mining Massive Data Sets, Winter 2016, Stanford University](https://web.stanford.edu/class/cs246/) ([YouTube](https://www.youtube.com/channel/UC_Oao2FYkLAUlUVkBfze4jg/videos))
@@ -267,7 +259,6 @@ Courses
 	- [Data 8: The Foundations of Data Science - UC Berkeley](http://data8.org/)
 	- [CS 109 Data Science, Harvard University](http://cs109.github.io/2015/pages/videos.html) ([YouTube](https://www.youtube.com/playlist?list=PLb4G5axmLqiuneCqlJD2bYFkBwHuOzKus))
 	- [Statistics 133 - Concepts in Computing with Data, Fall 2013 - UC Berkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDsSPnMJlnhIyADGUmikoIO)
-	- [Data Profiling and Data Cleansing (WS 2014/15) - HPI](https://itunes.apple.com/us/itunes-u/data-profiling-data-cleansing/id938216307)
 	- [AM 207 - Stochastic Methods for Data Analysis, Inference and Optimization, Harvard University](http://am207.github.io/2016/index.html)
 	- [CS 229r - Algorithms for Big Data, Harvard University](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf))
 - **Probabilistic Graphical Modeling**
@@ -360,9 +351,7 @@ Courses
 	- [6.042J - Mathematics for Computer Science, Fall 2010, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) ([Spring 15](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm))
 	- [Computer Science 70, 001 - Spring 2015](https://www.youtube.com/playlist?list=-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy)
 	- [CSE 547 Discrete Mathematics, Prof Skiena, University of Stony Brook](http://www3.cs.stonybrook.edu/~algorith/math-video/)
-	- [Discrete Structures (Summer 2011) - Rutgers, The State University of New Jersey](https://itunes.apple.com/us/course/discrete-structures-summer/id698728837)
 	- [Discrete Mathematics and Mathematical Reasoning 2015/16 - University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/dmmr.htm)
-	- [Discrete Structures - Pepperdine University](https://itunes.apple.com/us/course/discrete-structures/id546468789)
 - **Probability & Statistics**
 	- [6.041 Probabilistic Systems Analysis and Applied Probability - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
 	- [Statistics 110 - Probability - Harvard University](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
@@ -394,8 +383,6 @@ Courses
 - [CSEP545 - Transaction Processing for E-Commerce, Winter 2012 - University of Washington](http://courses.cs.washington.edu/courses/csep545/12wi/) ([Videos](http://courses.cs.washington.edu/courses/csep545/12wi/video/))
 - [CT 310 Web Development - Colorado State University](https://www.cs.colostate.edu/~ct310/yr2016sp/home_progress.php)
 - [Internet Technologies and Applications 2012, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF9cfLMTE-42fiBsWvBsOEkS)
-- [CSCI 3110 Advanced Topics in Web Development, Fall 2011 - ETSU iTunes](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=454017618)
-- [CSCI 5710 e-Commerce Implementation, Fall 2015 - ETSU iTunes](https://itunes.apple.com/us/itunes-u/e-commerce-implementation/id1020427670)
 - [XML and Semantic Web-Technologies - SS 2005 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/114/4215/)
 - [MOOC - Web Development - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlLXUhUNt1wINWrrH9axjcI)
 
@@ -462,8 +449,6 @@ Courses
 	- [Embedded Systems Class - Version 1 - 2011 - UNCC](https://www.youtube.com/playlist?list=PLE4462C1C306E2EB2)
 	- [Embedded Systems using the Renesas RX63N Processor - Version 3 - UNCC](https://www.youtube.com/playlist?list=PLPIqCiMhcdO5gxLJWt_hY5CPMzqg75IU5)
 	- [ELEC2142 - Embedded Systems Design - UNSW](http://eemedia.ee.unsw.edu.au/ELEC2142/index.htm)
-	- [Software Engineering for Embedded Systems - WS 2011/12 - iTunes - HPI](https://itunes.apple.com/us/itunes-u/software-engineering-for-embedded/id483124850)
-	- [Software Engineering for Self Adaptive Systems - iTunes - HPI](https://itunes.apple.com/us/itunes-u/software-engineering-for-self/id993578475)
 	- [EE260 Embedded Systems by Robert Paz](https://www.youtube.com/playlist?list=PLnvE9iJk1wvib_pdUPdQGYZrkrmg9mf__)
 - **Parallel Computer Architecture**
 	- [15-418 - Parallel Computer Architecture and Programming, CMU](http://15418.courses.cs.cmu.edu/spring2015/) ([Lecture Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22))
@@ -490,7 +475,6 @@ Courses
 - [CSEP590A - Practical Aspects of Modern Cryptography, Winter 2011 - University of Washington](http://courses.cs.washington.edu/courses/csep590a/11wi/) ([Videos](http://courses.cs.washington.edu/courses/csep590a/11wi/video/))
 - [CS461/ECE422 - Computer Security - University of Illinois at Urbana-Champaign](https://courses.engr.illinois.edu/cs461/sp2016/) ([Videos](https://recordings.engineering.illinois.edu:8443/ess/portal/section/8a560718-345a-417a-b665-6bd375a71ee2))
 - [Introduction to Cryptography, Christof Paar - Ruhr University Bochum, Germany](https://www.youtube.com/playlist?list=PLwJWuZfL_Ga2KJrTf9hOIgAQWkSpn9RNm)
-- [ECS235B Foundations of Computer and Information Security - UC Davis](https://itunes.apple.com/us/itunes-u/computer-science-foundations/id389259109)
 - [CIS 4930/ CIS 5930 - Offensive Computer Security, Florida State University](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
 - [18-636 Browser Security, Stanford](https://courseware.stanford.edu/pg/courses/334553/18636-spring-2013)
 - [Internet Security - Weaknesses and Targets (WT 2015/16)](https://www.tele-task.de/archive/series/overview/1084/) ([WT 2012/13](https://www.tele-task.de/archive/series/overview/921/) ([YouTube](https://www.youtube.com/playlist?list=PLVWVhkyKd-7taP50fB9PeZ2W_EPTOLD8o)))
@@ -507,16 +491,13 @@ Courses
 ### Computer Graphics
 
 - [CS184 - Computer Graphics, Fall 2012 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html)
-- [ECS 175 - Computer Graphics, Fall 2009 - UC Davis](https://itunes.apple.com/us/itunes-u/computer-graphics-fall-2009/id457893733?mt=10)
 - [Computer Graphics 2012, Wolfgang Huerst, Utrecht University](https://www.youtube.com/playlist?list=PLDFA8FCF0017504DE)
 - [CS 5630/6630 - Visualization, Fall 2016, University of Utah](http://dataviscourse.net/2016/index.html) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCpQY3miQpTJtnHgCLze2lr0))
 - [Advanced Visualization UC Davis](https://www.youtube.com/playlist?list=PLslgisHe5tBNnySlj9TlL-n-4jNEK-xgi)
-- [CSCI E-234 - Introduction to Computer Graphics and GPU Programming, Harvard Extension School](https://itunes.apple.com/us/itunes-u/csci-e-234-introduction-to/id429428034?mt=10)
 - [Computer Graphics Fall 2011, Barbara Hecker](https://www.youtube.com/playlist?list=PL9C949E9F19381E61)
 - [Introduction to Graphics Architecture](https://www.youtube.com/playlist?list=PL4A8BA1C3B38CFCA0)
 - [Ray Tracing for Global Illumination, UCDavis](https://www.youtube.com/playlist?list=PLslgisHe5tBPckSYyKoU3jEA4bqiFmNBJ)
 - [Rendering / Ray Tracing Course, SS 2015 - TU Wien](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
-- [ECS 178 Introduction to Geometric Modeling, Fall 2012, UC Davis](http://graphics.cs.ucdavis.edu/~joy/ecs178/Units.html) ([iTunes](https://itunes.apple.com/us/itunes-u/computer-science-introduction/id389259246))
 - [CS 468 - Differential Geometry for Computer Science - Stanford University](http://graphics.stanford.edu/courses/cs468-13-spring/schedule.html)
 
 -------
@@ -596,10 +577,6 @@ Courses
 - [CS E-259 XML with Java, Java Servlet, and JSP - Harvard](http://cs259.tv/2007/fall/)
 - [CSE 40373 - Spr 2009: Multimedia Systems](https://www.youtube.com/view_play_list?p=0105F1427EFAEE0A)
 - [Exposing Digital Photography - Harvard Extension School](http://tv.digitalphotography.exposed/2010/fall/)
-- [XML and Databases - WS 2011 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/4006/12519/)
-- [MOOC - Matlab - Coursera](https://www.youtube.com/playlist?list=PLcKDPPOF93EvvBrgR852MU13zvS2ihTpR)
-- [Computing for Computer Scientists - University of Michigan](https://c4cs.github.io)
-- [Linux Implementation/Administration Practicum - Redhat by Tulio Llosa](https://itunes.apple.com/us/itunes-u/linux-implementation-administration/id430673915)
 - [SIMS 141 - Search Engines - Fall 2005 UCBerkeley](https://www.youtube.com/view_play_list?p=1777A89066B1D71D)
 - [Innovative Computing - Harvard University](https://www.youtube.com/course?list=ECE3E96113F544495A)
 - [CS 195 - Social Implications of Computing, Spring 2015 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs195/sp15/) ([YouTube](https://www.youtube.com/playlist?list=PL-XXv-cvA_iAmCxqGV1Px2pKchYfozH-e))
