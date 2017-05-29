@@ -161,18 +161,7 @@ Courses
 
 ### Software Engineering
 
-- **Object Oriented Design**
-	- [ECE 462 Object-Oriented Programming using C++ and Java - Purdue](https://engineering.purdue.edu/OOSD/F2008/F2008.html)
-	- [Object-oriented Program Design and Software Engineering - Aduni](http://aduni.org/courses/java/index.php?view=cw)
-	- [OOSE - Object-Oriented Software Engineering, Dr. Tim Lethbridge](https://www.youtube.com/playlist?list=PL6iDJCG2nkhfNlig8NY5ePPfGvtQX6yLa)
-	- [Object Oriented Systems Analysis and Design (Systems Analysis and Design in a Changing World)](https://www.youtube.com/playlist?list=PL6XklZATqYx9dj72MKG6wLYjljeB2odra)
-	- [CS 251 - Intermediate Software Design (C++ version) - Vanderbilt University](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4ZsvD10uXmClGnukcu3Uff)
-	- [OOSE - Software Dev Using UML and Java](https://www.youtube.com/playlist?list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO)
-	- [CS3 - Design in Computing - Richard Buckland UNSW](https://www.youtube.com/course?list=EC0C5D85DBA20E685C)
-	- [Informatics 1 - Object-Oriented Programming 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf1op.htm)
-	- [Software Engineering with Objects and Components 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/seoc.htm)
 - **Software Engineering**
-	- [Computer Science 169- Software Engineering - Spring 2015 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCfQHHS7rxlfHFsU4aQW1IF)
 	- [CS 5150 -  Software Engineering, Fall 2014 - Cornell University](http://www.cs.cornell.edu/courses/cs5150/2014fa/materials.html)
 	- [Introduction to Service Design and Engineering - University of Trento, Italy](https://www.youtube.com/playlist?list=PLBdajHWwi0JCn87QuFT3e58mekU0-6WUT)
 	- [CS 164 Software Engineering - Harvard](http://cs164.tv/2014/spring/)
@@ -342,16 +331,6 @@ Courses
 
 ### Math for Computer Scientist
 - [List of Science & Math courses with video lectures](https://github.com/Developer-Y/math-science-video-lectures)
-- **Calculus**
-	- [18.01 Single Variable Calculus, Fall 2006 - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
-	- [18.02 Multivariable Calculus, Fall 2007 - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
-	- [18.03 Differential Equations, Spring 2010 - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
-	- [Highlights of Calculus - Gilbert Strang, MIT OCW](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/)
-- **Discrete Math**
-	- [6.042J - Mathematics for Computer Science, Fall 2010, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) ([Spring 15](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm))
-	- [Computer Science 70, 001 - Spring 2015](https://www.youtube.com/playlist?list=-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy)
-	- [CSE 547 Discrete Mathematics, Prof Skiena, University of Stony Brook](http://www3.cs.stonybrook.edu/~algorith/math-video/)
-	- [Discrete Mathematics and Mathematical Reasoning 2015/16 - University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/dmmr.htm)
 - **Probability & Statistics**
 	- [6.041 Probabilistic Systems Analysis and Applied Probability - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
 	- [Statistics 110 - Probability - Harvard University](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
@@ -372,25 +351,21 @@ Courses
 	- [INTRODUCTION TO MATRIX ALGEBRA](http://ma.mathforcollege.com/youtube/index.html)
 - [10-600 Math Background for ML - CMU](https://www.youtube.com/playlist?list=PL7y-1rk2cCsA339crwXMWUaBRuLBvPBCg)
 - [36-705 - Intermediate Statistics - Larry Wasserman, CMU](http://www.stat.cmu.edu/~larry/=stat705/) ([YouTube](https://www.youtube.com/playlist?list=PLcW8xNfZoh7eI7KSWneVWq-7wr8ffRtHF))
-- [Combinatorics - IISC Bangalore](http://nptel.ac.in/courses/106108051/)
 
 
 -------------------------
 
 ### Web Programming and Internet Technologies
 - [Web Search - SS 2006 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/110/423/)
-- [Open Sourced Elective: Database and Rails - Intro to Ruby on Rails, University of Texas](http://www.schneems.com/ut-rails/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F))
 - [CSEP545 - Transaction Processing for E-Commerce, Winter 2012 - University of Washington](http://courses.cs.washington.edu/courses/csep545/12wi/) ([Videos](http://courses.cs.washington.edu/courses/csep545/12wi/video/))
 - [CT 310 Web Development - Colorado State University](https://www.cs.colostate.edu/~ct310/yr2016sp/home_progress.php)
 - [Internet Technologies and Applications 2012, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF9cfLMTE-42fiBsWvBsOEkS)
-- [XML and Semantic Web-Technologies - SS 2005 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/114/4215/)
 - [MOOC - Web Development - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlLXUhUNt1wINWrrH9axjcI)
 
 ---------------------------
 
 
 ### Theoretical CS and Programming Languages
-
 
 - [MOOC - Compilers - Stanford University](https://www.youtube.com/playlist?list=PL34iyE0uXtxrgPZMv0dVmq1P8Io889oWZ)
 - [CS 164 Hack your language, UC Berkeley](https://sites.google.com/a/bodik.org/cs164/home) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PL3A16CFC42CA6EF4F))
@@ -574,7 +549,6 @@ Courses
 	- [Unity3D Tutorials](https://www.youtube.com/playlist?list=PL5FMIyKmleRwYdMIuejPS5csShp237A3X)
 	- [MOOC - Beginning Game Programming with C# - Coursera](http://academictorrents.com/details/0a7ba7e62821e488a0061751fdb81f4298733bea)
 - [SCICOMP - An Introduction to Efficient Scientific Computation, Universität Bremen](http://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=233) ([Lectures - Youtube](https://www.youtube.com/user/fillwithlight/videos))
-- [CS E-259 XML with Java, Java Servlet, and JSP - Harvard](http://cs259.tv/2007/fall/)
 - [CSE 40373 - Spr 2009: Multimedia Systems](https://www.youtube.com/view_play_list?p=0105F1427EFAEE0A)
 - [Exposing Digital Photography - Harvard Extension School](http://tv.digitalphotography.exposed/2010/fall/)
 - [SIMS 141 - Search Engines - Fall 2005 UCBerkeley](https://www.youtube.com/view_play_list?p=1777A89066B1D71D)
