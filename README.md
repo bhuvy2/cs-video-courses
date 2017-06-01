@@ -36,7 +36,6 @@ Courses
 - [6.001 - Structure and Interpretation of Computer Programs, MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures) ([Textbook](http://mitpress.mit.edu/sicp/full-text/book/book.html))
 - [CS 10 The Beauty & Joy of Computing, Spring 2015 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iC17q7Pydw_RernkItDJePz)
 - [CS 50 - Introduction to Computer Science, Harvard University](https://cs50.harvard.edu/lectures) ([cs50.tv](http://cs50.tv/2015/fall/))
-- [CS 61A - Structure and Interpretation of Computer Programs [Python], UC Berkeley](http://cs61a.org/) ([CS 98 - Additional Topics on SICP](https://itunes.apple.com/us/itunes-u/computer-science-98-052-spring/id964668866))
 - [SPD1 - Systematic Program Design [Racket], University of British Columbia](https://www.youtube.com/channel/UC7dEjIUwSxSNcW4PqNRQW8w/playlists?view=1&flow=grid&sort=da)
 - [CS E-1 Understanding Computers and the Internet, Spring 2013 - Harvard Extension School](http://cse1.net/lectures) ([Spring 2011](http://computerscience1.tv/2011/spring/))
 - [CSE 142 Computer Programming I (C Programming), Autumn 2000 - University of Washington](https://courses.cs.washington.edu/courses/cse142-TVI/00au/lectures/)
@@ -49,9 +48,6 @@ Courses
 - [Introduction to Programming with Arcade Games, Simpson College](http://ProgramArcadeGames.com)
 - [MOOC - Paradigms of computer programming, Peter Van Roy, Université catholique de Louvain, Belgium - EdX](https://www.youtube.com/playlist?list=PLw454N-VXALSIzIe_eL5U8L4S68v2X_ak)
 - [Introduction to Functional Programming, TU Delft](https://ocw.tudelft.nl/courses/introduction-to-functional-programming/)
-- [Engineering 7 - Introduction to Computer Programming for Scientists and Engineers - UC Berkeley](https://itunes.apple.com/us/itunes-u/engineering-7-001-fall-2009/id354821676)
-- [CS105 - Great Insights in Computer Science (Spring 2007) - Rutgers, The State University of New Jersey](https://itunes.apple.com/us/course/cs105-great-insights-in-computer/id698728833)
-- [CS110 - Introduction to Computing, Fall 2011 - Rutgers, The State University of New Jersey](https://itunes.apple.com/us/course/cs110-introduction-to-computing/id681331934)
 - [Computer Programming - Skills and Concepts 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/cp.htm)
 - [CS 101 - Introduction to Computer Science - University of Virginia](http://www.cs.virginia.edu/~asb/teaching/cs101-spring07/lectures/lectures.html)
 - [Python Boot Camp Fall 2016 - Berkeley Institute for Data Science (BIDS)](https://www.youtube.com/playlist?list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9)
@@ -176,7 +172,6 @@ Courses
 	- [CS 5150 -  Software Engineering, Fall 2014 - Cornell University](http://www.cs.cornell.edu/courses/cs5150/2014fa/materials.html)
 	- [Introduction to Service Design and Engineering - University of Trento, Italy](https://www.youtube.com/playlist?list=PLBdajHWwi0JCn87QuFT3e58mekU0-6WUT)
 	- [CS 164 Software Engineering - Harvard](http://cs164.tv/2014/spring/)
-	- [System Analysis and Design - IISC Bangalore](http://nptel.ac.in/courses/106108102/)
 	- [Informatics 2C - Software Engineering 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf2SE.htm)
 - **Software Architecture**
 	- [CS 411 - Software Architecture Design - Bilkent University](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
@@ -372,7 +367,6 @@ Courses
 	- [INTRODUCTION TO MATRIX ALGEBRA](http://ma.mathforcollege.com/youtube/index.html)
 - [10-600 Math Background for ML - CMU](https://www.youtube.com/playlist?list=PL7y-1rk2cCsA339crwXMWUaBRuLBvPBCg)
 - [36-705 - Intermediate Statistics - Larry Wasserman, CMU](http://www.stat.cmu.edu/~larry/=stat705/) ([YouTube](https://www.youtube.com/playlist?list=PLcW8xNfZoh7eI7KSWneVWq-7wr8ffRtHF))
-- [Combinatorics - IISC Bangalore](http://nptel.ac.in/courses/106108051/)
 
 
 -------------------------
@@ -462,7 +456,6 @@ Courses
 - [CS1 - Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F)
 - [MOOC - From NAND to TetrisBuilding a Modern Computer From First Principles](http://www.nand2tetris.org/course.php) ([YouTube](https://www.youtube.com/playlist?list=PLNMIACtpT9BfztU0P92qlw8Gd4vxvvfT1))
 - [System Validation, TU Delft](https://ocw.tudelft.nl/courses/system-validation/)
-- [High Performance Computing - IISC Bangalore](http://nptel.ac.in/courses/106108055/)
 - [Introduction to ARM - Open SecurityTraining](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-n91t_AX5zO007Giz1INwPd)
 - [Intro x86 (32 bit) - Open SecurityTraining](https://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0)
 - [Intermediate x86 (32 bit) - Open SecurityTraining](https://www.youtube.com/playlist?list=PL8F8D45D6C1FFD177)
