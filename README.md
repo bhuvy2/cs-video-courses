@@ -5,7 +5,6 @@ Table of Contents
 ------------------------------
 
 
-- [Introduction to Computer Science](#introduction-to-computer-science)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Systems Programming](#systems-programming)
 - [Database Systems](#database-systems)
@@ -29,10 +28,6 @@ Courses
 
 ### Data Structures and Algorithms
 
-- [CS 61B - Data Structures, Jonathan Shewchuk - UC Berkeley](https://people.eecs.berkeley.edu/~jrs/61b/) ([Videos](https://www.youtube.com/playlist?list=PL4BBB74C7D2A1049C))
-- [CS 61B - Data Structures, Josh Hug, Spring 2016 - UC Berkeley](http://datastructur.es/sp16/)
-- [6.006 - Introduction to Algorithms, MIT OCW](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
-- [CSE 373 - Analysis of Algorithms, Stony Brook - Prof Skiena](http://www.cs.sunysb.edu/~algorith/video-lectures/)
 - [COP 3530 Data Structures and Algorithms, Prof Sahni, UFL](http://www.cise.ufl.edu/~sahni/cop3530/) ([Videos](http://www.cise.ufl.edu/academics/courses/preview/cop3530sahni/))
 - [CS2 - Data Structures and Algorithms - Richard Buckland - UNSW](https://www.youtube.com/playlist?list=PLE621E25B3BF8B9D1)
 - [CS 161 - Design and Analysis of Algorithms, Prof. Tim Roughgarden, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
