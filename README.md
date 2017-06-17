@@ -76,7 +76,7 @@ Courses
 	- [CSEP 551 Operating Systems Autumn 2014 - University of Washington](http://courses.cs.washington.edu/courses/csep551/14au/video/)
 	- [CS194 Advanced Operating Systems Structures and Implementation, Spring 2013, UC Berkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iB_5Q8G8kW5idSwNmXypmQE)
 	- [CSE 60641 - Graduate Operating Systems, Fall 08](https://www.youtube.com/view_play_list?p=22B10D854588E20C)
-- **Distributed Systems - None of these except Indy's are any good**
+- **USELESS - Distributed Systems - None of these except Indy's are any good**
 	- [CS 677 - Distributed Operating Systems, Spring 16 - Umass OS](https://www.youtube.com/playlist?list=PLacuG5pysFbC68w0PW3huMHDDRNsDCTjp)
 	- [CS 436 - Distributed Computer Systems - U Waterloo](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
 	- [CSEP 552 - PMP Distributed Systems, Spring 2013 - University of Washington](http://courses.cs.washington.edu/courses/csep552/13sp/) ([Videos](http://courses.cs.washington.edu/courses/csep552/13sp/video/))
@@ -86,11 +86,10 @@ Courses
 	- [EdX KTHx ID2203 Reliable Distributed Algorithms](https://www.youtube.com/playlist?list=PLx3mQFFeHPjndmQ0iP9j6C58b90hqGa0X)
 	- [Distributed Data Management - Technische Universität Braunschweig, Germany](http://www.ifis.cs.tu-bs.de/teaching/ss-15/ddm)
 	- [Information Retrieval and Web Search Engines - Technische Universität Braunschweig, Germany](http://www.ifis.cs.tu-bs.de/teaching/ws-1516/IRWS)
-- **Real-Time Systems**
+- **USELESS - Real-Time Systems**
 	- [CPCS 663 - Real-Time Systems: Video Material - TAMU](http://faculty.cs.tamu.edu/bettati/Courses/663/Video/presentation.html)
 	- [Real-Time Systems - SS 2013 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/5201/15648/)
 - [6.172 Performance Engineering of Software Systems - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/)
-- [System Infrastructure For Data Science - WS 2012 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/4808/14532/)
 - [MAP6264 - Queueing Theory - FAU](https://vimeo.com/album/171324/)
 - [EE380-Colloquim on Computer Systems - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)
 
