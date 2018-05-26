@@ -304,7 +304,6 @@ Courses
 -------------------------
 
 ### Web Programming and Internet Technologies
-- [Web Search - SS 2006 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/110/423/)
 - [CSEP545 - Transaction Processing for E-Commerce, Winter 2012 - University of Washington](http://courses.cs.washington.edu/courses/csep545/12wi/) ([Videos](http://courses.cs.washington.edu/courses/csep545/12wi/video/))
 - [CT 310 Web Development - Colorado State University](https://www.cs.colostate.edu/~ct310/yr2016sp/home_progress.php)
 - [Internet Technologies and Applications 2012, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF9cfLMTE-42fiBsWvBsOEkS)
@@ -356,12 +355,6 @@ Courses
 	- [CS/ECE 3810 Computer Organization, Fall 2015, , University of Utah](http://www.cs.utah.edu/~rajeev/cs3810/) ([YouTube](https://www.youtube.com/playlist?list=PLm7BxCUdWqZzjZ-jRe73KUfj2GsSS2FPy))
 	- [CS-224 - Computer Organization, 2009-2010 Spring, Bilkent University](http://video.bilkent.edu.tr/course_videos.php?courseid=16) ([YouTube playlist](https://www.youtube.com/playlist?list=PLhwVAYxlh5dvB1MkZrcRZy6x_a2yORNAu))
 	- [INFORMATICS 2C - INTRODUCTION TO COMPUTER SYSTEMS (AUTUMN 2016) - University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf2c-cs.htm)
-- **Computer Architecture**
-	- [18-447 - Introduction to Computer Architecture, CMU](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule) ([Lectures - YouTube - Fall 15](https://www.youtube.com/playlist?list=PL5PHm2jkkXmgVhh8CHAu9N76TShJqfYDt))
-	- [CS 152 Computer Architecture and Engineering, UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIwEiwQx1dACXwh-2Fuo32qr)
-	- [CSEP 548 - Computer Architecture Autumn 2012 - University of Washington](http://courses.cs.washington.edu/courses/csep548/12au/video/index.html)
-	- [CS/ECE 6810 Computer Architecture, Spring 2016, University of Utah](http://www.cs.utah.edu/~rajeev/cs6810/) ([YouTube](https://www.youtube.com/playlist?list=PL8EC1756A7B1764F6))
-	- [MOOC - Computer Architecture, David Wentzlaff - Princeton University/Coursera](http://academictorrents.com/details/53bae6d22f3b6e692673f9335e0a0198c1618426)
 - **Embedded Systems**
 	- [EE445L Embedded Systems Design Lab, Fall 2015, UTexas](https://www.youtube.com/playlist?list=PLyg2vmIzGxXGBxFu8nvX3KBadSdsNAvbA)
 	- [CS149 Embedded Systems - Fall 2014 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDq3FCoYLeUL-X-NUlT405n)
